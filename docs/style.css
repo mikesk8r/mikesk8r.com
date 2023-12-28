@@ -5,9 +5,14 @@ body {
 }
 
 a {
+    text-decoration: dotted;
     color: white;
 }
 
 a:visited {
     color: white;
+}
+
+a:hover {
+    text-decoration: underline;
 }
