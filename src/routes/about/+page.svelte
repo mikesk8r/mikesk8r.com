@@ -7,7 +7,22 @@
         alt="Adorable sleepy cat."
     ></abbr>
     <h6>Look at this cute little kitten! How could you say no to that face!</h6>
-    <p>I enjoy programming and games. And also computers, plus cats. And also, a million other things.</p>
+    <p>Hi! I'm Mike (a.k.a mike_sk8r). I enjoy programming and games. And also computers, plus cats. And also, a million other things. But mostly games, computers, and cats. Some of my favorite games are Portal 2 and Katamari Damacy. Fun!!!</p>
+    <p>Email me at: 
+        <script>
+            (function whatever() {
+                var s = '@'
+                    , n = 'mike'
+                    , v = 'sk8r.com'
+                    , e = n + s
+                    , f = n + v
+                    , l = '<a href=mailto:{{spam@uce.gov}}>{{spam@uce.gov}}</a>'.replace(/{{.+?(}})/g, e + f)
+                ;
+                document.write(l);
+            })();
+        </script>        
+    </p>
     <h2>Links</h2>
-    <a href="https://steamcommunity.com/id/mike_sk8r" target="_blank">Steam profile</a>
+    <a href="https://steamcommunity.com/id/mike_sk8r" target="_blank">Steam profile</a><br>
+    <a href="https://roblox.com/users/1921878998" target="_blank">Roblox</a><br>
 </main>
