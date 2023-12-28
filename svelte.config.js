@@ -11,6 +11,9 @@ const config = {
         paths: {
             base: dev ? "" : "/mikesk8r.com",
         },
+		prerender: {
+			entries: []
+		}
     }
 };
 
