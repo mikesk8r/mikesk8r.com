@@ -1,1 +1,0 @@
-import{d as p,g as s,l as m}from"../chunks/disclose-version.xfqDq5Hq.js";import{b as r,c as t}from"../chunks/runtime.QHyPGw3X.js";var c=m("<h1>Welcome to mikesk8r.com</h1>");function i(o,e){t(e,!1);var a=s(o,!0,c);p(o,a),r()}export{i as component};
