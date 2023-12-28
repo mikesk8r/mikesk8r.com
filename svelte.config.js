@@ -9,7 +9,6 @@ const config = {
             assets: "docs"
         }),
         paths: {
-            // change below to your repo name
             base: dev ? "" : "/mikesk8r.com",
         },
     }
