@@ -23,6 +23,7 @@
         </script>        
     </p>
     <h2>Links</h2>
+    <a href="https://github.com/mikesk8r" target="_blank">GitHub</a><br>
     <a href="https://steamcommunity.com/id/mike_sk8r" target="_blank">Steam profile</a><br>
     <a href="https://roblox.com/users/1921878998" target="_blank">Roblox</a><br>
 </main>
