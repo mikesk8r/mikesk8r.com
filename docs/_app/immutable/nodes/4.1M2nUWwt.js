@@ -1,1 +1,0 @@
-import{d as o,g as s,l as t}from"../chunks/disclose-version.sHkh6--S.js";import{b as m,c as r}from"../chunks/runtime.QHyPGw3X.js";var n=t("<main><h1>Projects</h1> <p>None published yet.</p></main>");function l(a,e){r(e,!1);var p=s(a,!0,n);o(a,p),m()}export{l as component};

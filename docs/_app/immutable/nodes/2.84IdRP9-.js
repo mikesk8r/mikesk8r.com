@@ -1,0 +1,4 @@
+import{s as i,n as o}from"../chunks/scheduler.k-kUyWhY.js";import{S as r,i as l,g as c,h as m,x as p,a as h,f as d}from"../chunks/index.wJJws_a0.js";function f(s){let e,a=`<img src="favicon.png" width="90" height="90" alt="Icon" style="padding-top: 25px; padding-left: calc(50% - 45px);"/> <h1>Welcome to <p class="colored">mikesk8r.com</p>!</h1> <p>Hello! Welcome to my website. This site is mostly just for small
+         projects and things that I want to upload. You can find the source
+         code in <a href="https://github.com/mikesk8r/mikesk8r.com">my GitHub repository.</a>
+        Feel free to contribute, steal my spaghetti code, whatever. I don&#39;t really care.</p>`;return{c(){e=c("main"),e.innerHTML=a},l(t){e=m(t,"MAIN",{"data-svelte-h":!0}),p(e)!=="svelte-t9ngoe"&&(e.innerHTML=a)},m(t,n){h(t,e,n)},p:o,i:o,o,d(t){t&&d(e)}}}class y extends r{constructor(e){super(),l(this,e,null,f,i,{})}}export{y as component};

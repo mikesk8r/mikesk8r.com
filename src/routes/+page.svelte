@@ -1,11 +1,10 @@
 <main>
-    <h1>Welcome to mikesk8r.com!</h1>
-    <img src="https://web.archive.org/web/20090830230956/http://www.geocities.com/la_corsarie/welcome.gif" alt="Welcome to my site!">
+    <img src="favicon.png" width="90" height="90" alt="Icon" style="padding-top: 25px; padding-left: calc(50% - 45px);" />
+    <h1>Welcome to <p class="colored">mikesk8r.com</p>!</h1>
     <p>
-        A dedicated website to all my silly projects and things. 
-        You can click the links in the top bar to see different pages, or you can leave this site. 
-        I don't care.
+        Hello! Welcome to my website. This site is mostly just for small
+         projects and things that I want to upload. You can find the source
+         code in <a href="https://github.com/mikesk8r/mikesk8r.com">my GitHub repository.</a>
+        Feel free to contribute, steal my spaghetti code, whatever. I don't really care.
     </p>
-    <p>Have fun!</p>
-    <h6>more coming soon! it'll be added later cuz im lazy *.*</h6>
 </main>

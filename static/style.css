@@ -1,18 +1,61 @@
+@font-face {
+    font-family: navfont;
+    src: url("vcrmono.ttf");
+}
+
+@font-face {
+    font-family: textfont;
+    src: url("nunito.ttf");
+}
+
+:root {
+    --accent: #171738;
+    --accent-light: #4747AE;
+}
+
 body {
     background-color: black;
     color: white;
-    font-family: sans-serif;
+    font-family: textfont, sans-serif;
+    margin: 0px;
+}
+
+img {
+    margin-left: auto;
+}
+
+p.colored {
+    color: var(--accent-light);
+    display: inline;
 }
 
 a {
     text-decoration: dotted;
-    color: white;
+    color: var(--accent);
+}
+
+a.navlink {
+    color: rgb(255, 255, 255)!important;
 }
 
 a:visited {
-    color: white;
+    color: var(--accent);
 }
 
 a:hover {
+    color: var(--accent-light);
     text-decoration: underline;
+}
+
+nav {
+    margin: 0px;
+    padding: 5px;
+    font-family: navfont;
+    background-color: hsl(0, 0%, 10%);
+    background-color: var(--accent);
+}
+
+main {
+    margin-left: 20%;
+    margin-right: 20%;
 }
