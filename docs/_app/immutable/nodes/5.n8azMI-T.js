@@ -1,2 +1,2 @@
-import{s as i,n}from"../chunks/scheduler.k-kUyWhY.js";import{S as r,i as l,g as m,h as c,x as f,a as p,f as u}from"../chunks/index.wJJws_a0.js";import"../chunks/paths.VAJR-ohc.js";function d(s){let e,a=`<h1>Mods</h1>
+import{s as i,n}from"../chunks/scheduler.k-kUyWhY.js";import{S as r,i as l,g as m,h as c,x as f,a as p,f as u}from"../chunks/index.wJJws_a0.js";import"../chunks/paths.38LOq_IO.js";function d(s){let e,a=`<h1>Mods</h1>
     lol`;return{c(){e=m("main"),e.innerHTML=a},l(t){e=c(t,"MAIN",{"data-svelte-h":!0}),f(e)!=="svelte-1fu9kk1"&&(e.innerHTML=a)},m(t,o){p(t,e,o)},p:n,i:n,o:n,d(t){t&&u(e)}}}class g extends r{constructor(e){super(),l(this,e,null,d,i,{})}}export{g as component};
