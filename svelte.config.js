@@ -9,7 +9,7 @@ const config = {
             assets: "docs"
         }),
         paths: {
-            base: dev ? "" : "/mikesk8r.com",
+            base: dev ? "/" : "/mikesk8r.com",
         },
     }
 };
