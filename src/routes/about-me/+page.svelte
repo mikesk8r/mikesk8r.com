@@ -2,6 +2,10 @@
     import { base } from '$app/paths';
 </script>
 
+<svelte:head>
+	<title>About me - mikesk8r.com</title>
+</svelte:head>
+
 <main>
     <h1>About me</h1>
     <div>

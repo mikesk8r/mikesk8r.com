@@ -1,3 +1,7 @@
+<svelte:head>
+	<title>mikesk8r.com</title>
+</svelte:head>
+
 <main>
     <img src="favicon.png" width="90" height="90" alt="Icon" style="padding-top: 25px; padding-left: calc(50% - 45px);" />
     <h1>Welcome to <p class="colored">mikesk8r.com</p>!</h1>
